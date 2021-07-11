@@ -1,6 +1,6 @@
 # AILearning
-logRegres.py运用梯度上升、随机梯度上升、改进的随机梯度上升算法求Logistics回归最佳拟合直线
+logRegres.py  使用testSet.txt数据集文件，运用梯度上升、随机梯度上升、改进的随机梯度上升算法求Logistics回归最佳拟合直线
 
-colicTest.py运用改进的随机梯度上升算法求解从疝气病症预测病马的死亡率问题
+colicTest.py  使用horseColicTraining.txt和horseColicTest.txt数据集文件，运用改进的随机梯度上升算法求解从疝气病症预测病马的死亡率问题
 
-regression.py运用线性回归和局部加权线性回归找到最佳拟合直线
+regression.py  使用ex0.txt数据集文件，运用线性回归和局部加权线性回归找到最佳拟合直线
