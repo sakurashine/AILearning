@@ -6,3 +6,5 @@ colicTest.py  使用horseColicTraining.txt和horseColicTest.txt数据集文件�
 regression.py  使用ex0.txt数据集文件，运用线性回归和局部加权线性回归找到最佳拟合直线
 
 trees.py  用决策树进行分类判定鱼类和非鱼类
+
+mnist.py  借助飞桨框架使用LeNet在MINIST数据集实现手写数字识别
